@@ -1,0 +1,6 @@
+build/
+examples/
+*.o
+*.out
+*.ppt
+*.pptx
