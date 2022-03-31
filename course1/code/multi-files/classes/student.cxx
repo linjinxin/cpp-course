@@ -1,7 +1,6 @@
 #include <iostream>
-// #include "iostream"
 #include <cstring>
-#include "student.h"
+#include "../include/student.h"
 
 void Student::setName(const char* s)
 {
